@@ -600,6 +600,7 @@ header .navbar {
 .best-features img {
   width: 100%;
   overflow: hidden;
+  height: 380px;
 }
 
 .best-features h4 {
