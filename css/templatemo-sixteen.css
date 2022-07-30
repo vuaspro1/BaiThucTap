@@ -1316,7 +1316,7 @@ div {
   width: 10px;
   height: 10px;
   border-radius: 50%;
-  background: #333;
+  background-color: #333;
   float: left;
   margin-right: 5px;
   cursor: pointer;
@@ -1330,7 +1330,7 @@ div {
   width: 100%;
   height: 100%;
   border-radius: 50%;
-  background: rgb(204, 14, 14);
+  background-color: rgb(204, 14, 14);
   position: relative;
   -webkit-animation: on 30s infinite;
   -moz-animation: on 30s infinite;
